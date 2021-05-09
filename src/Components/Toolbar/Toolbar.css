@@ -1,0 +1,26 @@
+.Head{
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+    box-sizing: border-box;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+}
+.Head-left{
+    font-size: 25px;
+}
+
+
+@media (min-width:800px) {
+    .main_head{
+        justify-content: center;
+        padding:  0 120px;
+    }
+    .lineo{
+        text-align: center;
+    }
+    
+}

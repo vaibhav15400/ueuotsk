@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+
+.finalFooter{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.col1, .col2,.col3{
+    padding: 40px;
+    list-style: none;
+}
+.c3{
+    padding: 10px;    
+    color: #818080;
+
+}
+.Confoot{
+    padding-top: 58px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.c1{
+    font-family: 'Itim', cursive;
+    font-size: 29px;
+    text-align: center;
+    vertical-align: middle;
+}
+.c0{
+    margin-top: 80px;
+}
+.c2{
+    padding-top: 90px;
+    align-items: baseline;
+}

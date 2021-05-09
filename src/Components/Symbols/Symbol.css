@@ -1,0 +1,47 @@
+.symbols{
+    display: flex;
+    background-color: black;
+    height:50px;
+    justify-content: center;
+
+}
+.symbols:hover{
+    cursor: grab;
+}
+.FB{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.insta{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.linkedin{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.twitter{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

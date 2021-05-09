@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300&display=swap');
+.w1{
+    display: flex;
+    justify-content: space-between;
+    padding:-150px 120px 0px 120px;
+   height: 100vh;
+    padding : 50px 200px;
+    background: #EEEEEE;
+}
+.w3, .w2{
+    width:50%
+}
+.w3{
+    align-items: center;
+    display: flex;
+    font-family: 'Newsreader';
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.w4{
+    height:25vh;
+    padding-top: 28px;
+    display: flex;
+    font-family: 'Newsreader';
+    list-style: none;
+    justify-content: space-between;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+}
+.w2{
+    justify-content: center;
+    vertical-align: middle;
+}
+
+
+@media (max-width:700px) {
+    .p1{
+        
+        height: 350px;
+        width: 350px;
+        display: flex;
+        justify-content: center;
+    }
+}
